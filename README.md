@@ -7,8 +7,7 @@
 - 🌱 Actualmente estoy aprendiendo Jest, TDD, Docker, GraphQL. 
 - 💬 Preguntame cualquier cosa, estoy feliz de ayudarte.
 
-- 📫 Me puedes encontrar aquí: 
-<a target="_blank" href="https://www.facebook.com/gustavo.altamiranda.12/">
+- 📫 Me puedes encontrar aquí: <a target="_blank" href="https://www.facebook.com/gustavo.altamiranda.12/">
   <img alt="Facebook Gustavo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/ioogustavo/">
