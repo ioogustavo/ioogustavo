@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo)](https://github.com/ioogustavo/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true&theme=radical)
 
