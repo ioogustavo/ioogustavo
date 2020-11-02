@@ -2,7 +2,7 @@
 <br/>
 
 **Presentación:**
-  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="350" height="280" />
 - 👨🏽‍💻 Mejorando día a día.
 - 🌱 Actualmente estoy aprendiendo Jest, TDD, Docker, GraphQL. 
 - 💬 Preguntame cualquier cosa, estoy feliz de ayudarte.
@@ -20,11 +20,9 @@
 <a target="_blank" href="wa.link/9a0u86">
   <img alt="Gustavo Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="wa.link/9a0u86">
+<a target="_blank" href="mailto:gustavoalt93@gmail.com">
   <img alt="Gustavo Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
-<a href="mailto:gustavoalt93@gmail.com">Aquí el texto que quieras</a>
 
 - 📝[Curriculum](https://drive.google.com/file/d/1LcwkZWZXqRwF5ZzArT2y6enNrdKtnW9h/view)
 
@@ -87,30 +85,8 @@ let ioogustavo = {
   Aspirations: ['Artificial Intelligence', 'CloudComputing', 'MachineLearning', 'Virtual Reality']
 }
 ```
-
-
-<br/><br/>
+<br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true&theme=radical&count_private=true&langs_count=10)
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ioogustavo)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**ioogustavo/ioogustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
--->
