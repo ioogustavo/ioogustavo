@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo)](https://github.com/ioogustavo/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&count_private=true)](https://github.com/ioogustavo/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **ioogustavo/ioogustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
