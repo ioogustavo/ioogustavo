@@ -8,20 +8,10 @@
 - 💬 Preguntame cualquier cosa, estoy feliz de ayudarte.
 
 - 📫 Me puedes encontrar aquí: <a target="_blank" href="https://www.facebook.com/gustavo.altamiranda.12/">
-  <img alt="Facebook Gustavo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/ioogustavo/">
-  <img alt="Instagram Gustavo Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gustavoaltamiranda/">
-  <img alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="wa.link/9a0u86">
-  <img alt="Gustavo Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="mailto:gustavoalt93@gmail.com">
-  <img alt="Gustavo Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  <img alt="Facebook Gustavo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a><a target="_blank" href="https://www.instagram.com/ioogustavo/"><img alt="Instagram Gustavo Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="https://www.linkedin.com/in/gustavoaltamiranda/"><img alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a target="_blank" href="wa.link/9a0u86"><img alt="Gustavo Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a><a target="_blank" href="mailto:gustavoalt93@gmail.com"><img alt="Gustavo Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
 - 📝[Curriculum](https://drive.google.com/file/d/1LcwkZWZXqRwF5ZzArT2y6enNrdKtnW9h/view)
 
