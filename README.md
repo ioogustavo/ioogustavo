@@ -1,6 +1,22 @@
-### Rubén Gustavo Altamiranda
+### Hola!! 
+<br/>
+
+<a href="https://www.facebook.com/gustavo.altamiranda.12/">
+  <img align="left" alt="Facebook Gustavo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/ioogustavo/">
+  <img align="left" alt="Instagram Gustavo Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gustavoaltamiranda/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="wa.link/9a0u86">
+  <img align="left" alt="Gustavo Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ioogustavo.visitor-badge)
+
+<br/>
 
 **Languages and Tools:**
 
@@ -30,7 +46,7 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br/>
+<br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true&theme=radical&count_private=true&langs_count=10)
 
