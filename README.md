@@ -277,26 +277,6 @@ A next-generation distributed platform combining:
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ioogustavo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioogustavo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ioogustavo&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ioogustavo&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🧭 Professional Mindset
 
 ## What Defines Me As An Engineer
